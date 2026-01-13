@@ -124,6 +124,3 @@ Projeyi yerel makinenizde çalıştırmak için adımları izleyin:
 ## 👨‍💻 Geliştirici
 
 **Eyyüp Sabri Çelik** — *Data Science & Machine Learning Enthusiast*
-
-Bu proje, modern yapay zeka araçlarını klasik makine öğrenmesi algoritmalarıyla birleştirerek  
-gerçek dünya problemlerine çözüm üretmek amacıyla geliştirilmiştir.
