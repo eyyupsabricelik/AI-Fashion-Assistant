@@ -63,6 +63,7 @@ AI-Fashion-Assistant/
 ├── requirements.txt             # Gerekli Python kütüphaneleri
 ├── README.md                    # Proje dokümantasyonu
 └── assets/                      # Ekran görüntüleri klasörü
+```
 
 ## 📊 Performans Değerlendirmesi
 
@@ -96,10 +97,12 @@ Projeyi yerel makinenizde çalıştırmak için adımları izleyin:
    ```bash
    git clone https://github.com/eyyupsabricelik/AI-Fashion-Assistant.git
    cd AI-Fashion-Assistant
+   ```
 
 2. **Gerekli Kütüphaneleri Yükleyin:**
     ```bash
     pip install -r requirements.txt
+    ```
 
 
 3. **API Anahtarını Ayarlayın:**
@@ -110,6 +113,7 @@ Projeyi yerel makinenizde çalıştırmak için adımları izleyin:
 4. **Uygulamayı Başlatın:**
    ```bash
    streamlit run app.py
+   ```
 
 ## 🔮 Gelecek Planları (Roadmap)
 
