@@ -108,8 +108,8 @@ Projeyi yerel makinenizde çalıştırmak için adımları izleyin:
     İçindeki MY_KEY kısmına Google Gemini API anahtarınızı yapıştırın.
 
 4. **Uygulamayı Başlatın:**
-    ```bash
-    streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 ## 🔮 Gelecek Planları (Roadmap)
 
